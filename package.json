@@ -1,0 +1,26 @@
+{
+  "name": "screeps-tarper24",
+  "version": "0.0.1",
+  "description": "screeps",
+  "main": "src/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-screeps": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarper24/screeps.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "tarper24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarper24/screeps/issues"
+  },
+  "homepage": "https://github.com/tarper24/screeps#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
